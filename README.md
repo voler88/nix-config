@@ -1,5 +1,9 @@
 # My NixOS configuration
 
+## Release notes
+
+See the [changelog](CHANGELOG.md) file.
+
 ## Licensing
 
 See the [license](LICENSE) file.
